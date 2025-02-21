@@ -1,0 +1,109 @@
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.StreamContent, Headers:
+{
+  Connection: keep-alive
+  Date: Fri, 19 Jul 2024 14:40:51 GMT
+  Set-Cookie: AWSALB=OROBDgDVPzh3/ioFHUBCFri1vjoVI8fpQo4hlUiOPGRpqo2CubU3RJty89gGqN9jYsrZJbFsuAdYJFAxVzoyO0f4SQ6uE1y5G1PjcyCo9RMywoeF6PXHpLMeoIMz; Expires=Fri, 26 Jul 2024 14:40:51 GMT; Path=/
+  Set-Cookie: AWSALBCORS=OROBDgDVPzh3/ioFHUBCFri1vjoVI8fpQo4hlUiOPGRpqo2CubU3RJty89gGqN9jYsrZJbFsuAdYJFAxVzoyO0f4SQ6uE1y5G1PjcyCo9RMywoeF6PXHpLMeoIMz; Expires=Fri, 26 Jul 2024 14:40:51 GMT; Path=/; SameSite=None; Secure
+  Cache-Control: private
+  Server: Microsoft-IIS/10.0
+  X-AspNetMvc-Version: 5.2
+  X-AspNet-Version: 4.0.30319
+  X-Powered-By: ASP.NET
+  Content-Length: 5124
+  Content-Type: text/html; charset=utf-8
+}
+Staus Code => OK
+Staus Code => 200
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <title>Login into All On Mobile</title>
+
+    <link rel="icon" type="image/png" href="/bridge/Themes/Default/favicon-96.png?v=-1128311842" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/bridge/Themes/Default/favicon-32.png?v=-1128311842" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/bridge/Themes/Default/favicon-16.png?v=-1128311842" sizes="16x16" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="/bridge/css/login?v=_5Px4ltk_AKxf5hHHA6qEIUFrsNTWeCF6X9zgR0qJpY1" rel="stylesheet" type="text/css" />
+    <link href="/bridge/Themes/Default/style.css?v=-1128311842" rel="stylesheet" type="text/css" />
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="gray-bg">
+
+    <div id="outdated">
+        <h6>Your browser is out-of-date!</h6>
+        <p>Please consider updating your browser to view this website correctly. <a id="btnUpdateBrowser" href="http://outdatedbrowser.com/">Update my browser now </a></p>
+        <p class="last"><a href="#" id="btnCloseUpdateBrowser" title="Close">&times;</a></p>
+    </div>
+
+    <div class="loginColumns">
+
+        <div class="row">
+
+            <div class="col-md-6">
+                <h2 class="font-bold">Welcome to All On Mobile</h2>
+
+                <p>
+                    <p>AllOnMobile (AOM) is the market leader in Mobile Enterprise Solutions used by many of the UK's largest service organisations.<br><br>By making resources fully available and allowing field workers to access them via mobile devices, AllOnMobile has facilitated vastly accelerated invoicing and significantly lower delivery costs for its customers. AOM is a radically different way of allowing mobile devices to access any corporate back end system.</p>
+                </p>
+
+            </div>
+            <div class="col-md-6">
+                <div class="content">
+                    <div class="logo">
+                        <a href="#" title="All On Mobile">
+                            <img src="/bridge/Themes/Default/logo.png?v=-1128311842" alt="All On Mobile" />
+                        </a>
+                    </div>
+
+<form action="/bridge/Account/Login" id="form" method="post" name="form">                        <div class="form-group">
+                            <input autofocus="autofocus" class="required form-control" data-val="true" data-val-required="The Account username field is required." id="UserName" name="UserName" placeholder="Username" type="text" value="" />
+                        </div>
+                        <div class="form-group">
+                            <input class="required form-control" data-val="true" data-val-required="The Password field is required." id="Password" name="Password" placeholder="Password" type="password" />
+                        </div>
+                        <button type="submit" class="btn btn-lg btn-primary btn-block">Login</button>
+</form>                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <ul>
+                <li>
+                    <a href="http://www.allonmobile.com/" target="_blank">http://www.allonmobile.com/</a>&nbsp;|&nbsp;
+                    <a href="http://www.allonmobile.com/support/" target="_blank">Support</a>&nbsp;|&nbsp;
+                    <a href="https://www.allonmobile.com/privacy-policy/" target="_blank">Terms&nbsp;&#38;&nbsp;Conditions</a>
+                </li>
+                <li class="pull-right">&#169; All On Mobile 2024</li>
+                <li class="pull-right" style="margin-right: 30px;">
+                    <span title="Build Date: 02/06/2023 07:27:30">5.1.0.0</span>
+                </li>
+            </ul>
+
+            <div class="clearfix"></div>
+            
+            <p class="text-justify">
+            <small>
+                This system is for official use only by authorised personnel only. By using this system, you agree to allow monitoring and recording of your activities on this system which may be provided to law enforcement or other investigative agencies for official reasons including criminal investigations. Unauthorised or illegal activities on this system may be punishable by law. By logging into this system you indicate your acceptance of these terms and agree to abide by the IT Acceptable Use Policy.
+            </small>
+            </p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/bridge/js/login?v=IYg6C9A36ytPG3ekjwu3khZec5KeWFYOHYyEvJlwYD41"></script>
+</body>
+</html>

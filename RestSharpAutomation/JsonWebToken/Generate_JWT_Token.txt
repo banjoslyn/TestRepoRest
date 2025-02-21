@@ -1,0 +1,13 @@
+Approach 1
+	1. Create a Request for the User Registration /users/sign-ip
+	2. Create a Second Request for authenticating the created user /users/authenticate
+
+Approach 2
+	1. Create a Custom Authenticator that inherits from the Authenticator Base Class (Rest Sharp Class)
+	2. In the Custome Authenticator
+		2.1. Create a Request for the User Registration /users/sign-ip
+		2.2. Create a Second Request for authenticating the created user /users/authenticate
+
+
+
+Approach 2 is the recommended approach for Rest Sharp.

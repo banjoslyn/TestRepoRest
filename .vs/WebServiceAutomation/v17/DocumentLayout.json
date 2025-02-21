@@ -1,0 +1,1095 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|c:\\users\\brianjoslyn\\source\\repos\\webserviceautomation\\restsharpautomation\\schemavalidation\\schema\\validateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\schemavalidation\\schema\\validateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|c:\\users\\brianjoslyn\\source\\repos\\webserviceautomation\\restsharpautomation\\schemavalidation\\schema\\requestbodyschema.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\schemavalidation\\schema\\requestbodyschema.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|c:\\users\\brianjoslyn\\source\\repos\\webserviceautomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\testcreateproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\testcreateproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\client\\jiraclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\client\\jiraclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\createprojectpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\createprojectpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\testgetsecurewithjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\testgetsecurewithjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\ijiraclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\ijiraclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\testjiralogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\testjiralogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\sessionbasedauth\\jiraapplication\\model\\logininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\get_request_using_restsharp_with_jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\get_request_using_restsharp_with_jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\model\\jsonwebtokenauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\model\\jsonwebtokenauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\restapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\restapiexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\command\\requestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\command\\requestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\client\\tracerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\client\\tracerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\client\\authenticationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\client\\authenticationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\dropbox\\listfilesandfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\dropbox\\listfilesandfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\deleterequest\\testdeleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\deleterequest\\testdeleterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\postrequest\\testpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\postrequest\\testpostrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\postrequest\\testmockableio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\postrequest\\testmockableio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\postrequest\\testpostwithtracerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\postrequest\\testpostwithtracerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\queryparameters\\testqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\queryparameters\\testqueryparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\putrequest\\testputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\putrequest\\testputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\postrequest\\assignment_post_request_with_decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\postrequest\\assignment_post_request_with_decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\fileupload\\testmultipartformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\fileupload\\testmultipartformdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\getrequest\\testgetrequestsecure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\getrequest\\testgetrequestsecure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\dropbox\\testfiledownloadusingframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\dropbox\\testfiledownloadusingframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\dropbox\\testdownloadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\dropbox\\testdownloadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\client\\basicauthdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\client\\basicauthdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\apirequest\\postrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\apirequest\\postrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\command\\downloadrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\command\\downloadrequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\model\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\model\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\generate_jwt_token.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\generate_jwt_token.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\jsonwebtoken\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\jsonwebtoken\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\abstractrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\abstractrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apimodel\\jsonapimodel\\jsonmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apimodel\\jsonapimodel\\jsonmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\getrequest\\testgetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\getrequest\\testgetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\apirequest\\getrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\apirequest\\getrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\apirequest\\putrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\apirequest\\putrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\apirequest\\deleterequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\apirequest\\deleterequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apimodel\\xmlapimodel\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apimodel\\xmlapimodel\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\apiresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\apiresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apimodel\\xmlapimodel\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apimodel\\xmlapimodel\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apimodel\\xmlapimodel\\laptopdetailss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apimodel\\xmlapimodel\\laptopdetailss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apimodel\\xmlapimodel\\xmlmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apimodel\\xmlapimodel\\xmlmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\postendpoint\\testpostendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\postendpoint\\testpostendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\getrequest\\testgetwithframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\getrequest\\testgetwithframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\irestapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\irestapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\apihelper\\client\\defaultclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\apihelper\\client\\defaultclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\getendpoint\\testgetendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\getendpoint\\testgetendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\restsharpautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10ED4F7-9A54-4E8B-A8DD-B2D925E0AFE4}|RestSharpAutomation\\RestSharpLatest.csproj|solutionrelative:restsharpautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC20E5-56D3-4AD3-8653-24EF5143730B}|MsTestProject\\MsTestProject.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\mstestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC20E5-56D3-4AD3-8653-24EF5143730B}|MsTestProject\\MsTestProject.csproj|solutionrelative:mstestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\helper\\request\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\helper\\request\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\helper\\authentication\\base64stringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\helper\\authentication\\base64stringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\helper\\responsedata\\responsedatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\helper\\responsedata\\responsedatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\model\\restresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\model\\restresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC20E5-56D3-4AD3-8653-24EF5143730B}|MsTestProject\\MsTestProject.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\mstestproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC20E5-56D3-4AD3-8653-24EF5143730B}|MsTestProject\\MsTestProject.csproj|solutionrelative:mstestproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\webserviceautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D40B51A-24E5-43ED-9D74-D852C7B213ED}|WebServiceAutomation\\WebServiceAutomation.csproj|solutionrelative:webserviceautomation\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidateSchema.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SchemaValidation\\Schema\\ValidateSchema.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SchemaValidation\\Schema\\ValidateSchema.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SchemaValidation\\Schema\\ValidateSchema.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SchemaValidation\\Schema\\ValidateSchema.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:19:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestBodySchema.txt",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SchemaValidation\\Schema\\RequestBodySchema.txt",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SchemaValidation\\Schema\\RequestBodySchema.txt",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SchemaValidation\\Schema\\RequestBodySchema.txt",
+              "RelativeToolTip": "RestSharpAutomation\\SchemaValidation\\Schema\\RequestBodySchema.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-21T09:19:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCreateProject.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestCreateProject.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestCreateProject.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestCreateProject.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestCreateProject.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:38:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProjectPayload.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\CreateProjectPayload.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\CreateProjectPayload.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\CreateProjectPayload.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\CreateProjectPayload.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:29:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JiraClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\JiraClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Client\\JiraClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\JiraClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Client\\JiraClient.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:32:27.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJiraClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IJiraClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\IJiraClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IJiraClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\IJiraClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T16:25:18.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestJiraLogin.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestJiraLogin.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestJiraLogin.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestJiraLogin.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\TestJiraLogin.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:15:45.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginResponse.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:09:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginInfo.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginInfo.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginInfo.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\LoginInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:59:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\Session.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\Session.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\Session.cs",
+              "RelativeToolTip": "RestSharpAutomation\\SessionBasedAuth\\JiraApplication\\Model\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:55:11.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestGetSecureWithJwt.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\TestGetSecureWithJwt.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\TestGetSecureWithJwt.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\TestGetSecureWithJwt.cs",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\TestGetSecureWithJwt.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:09:04.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonWebTokenAuthenticator.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\JsonWebTokenAuthenticator.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\Model\\JsonWebTokenAuthenticator.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\JsonWebTokenAuthenticator.cs",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\Model\\JsonWebTokenAuthenticator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:04:54.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\JwtToken.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\Model\\JwtToken.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\JwtToken.cs",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\Model\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:01:28.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\User.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Model\\User.cs",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:57:12.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Generate_JWT_Token.txt",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Generate_JWT_Token.txt",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\Generate_JWT_Token.txt",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\Generate_JWT_Token.txt",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\Generate_JWT_Token.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-04T10:51:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TracerClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\TracerClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Client\\TracerClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\TracerClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Client\\TracerClient.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:32:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Command\\RequestCommand.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Command\\RequestCommand.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Command\\RequestCommand.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Command\\RequestCommand.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:00:38.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestApiExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\RestApiExecutor.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\RestApiExecutor.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\RestApiExecutor.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\RestApiExecutor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:19:30.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GET_Request_using_RestSharp_with_JWT.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\GET_Request_using_RestSharp_with_JWT.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\JsonWebToken\\GET_Request_using_RestSharp_with_JWT.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\JsonWebToken\\GET_Request_using_RestSharp_with_JWT.cs",
+              "RelativeToolTip": "RestSharpAutomation\\JsonWebToken\\GET_Request_using_RestSharp_with_JWT.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:36:14.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\AuthenticationDecorator.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Client\\AuthenticationDecorator.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\AuthenticationDecorator.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Client\\AuthenticationDecorator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:44:36.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TestMultipartFormData.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\FileUpload\\TestMultipartFormData.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\FileUpload\\TestMultipartFormData.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\FileUpload\\TestMultipartFormData.cs",
+              "RelativeToolTip": "RestSharpAutomation\\FileUpload\\TestMultipartFormData.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:43:45.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DownloadRequestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Command\\DownloadRequestCommand.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Command\\DownloadRequestCommand.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Command\\DownloadRequestCommand.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Command\\DownloadRequestCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:05:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TestDownloadFile.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\TestDownloadFile.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\DropBox\\TestDownloadFile.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\TestDownloadFile.cs",
+              "RelativeToolTip": "RestSharpAutomation\\DropBox\\TestDownloadFile.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:10:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PostRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\PostRequestBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\APIRequest\\PostRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\PostRequestBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\APIRequest\\PostRequestBuilder.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwEsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:33:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestFileDownloadUsingFramework.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\TestFileDownloadUsingFramework.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\DropBox\\TestFileDownloadUsingFramework.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\TestFileDownloadUsingFramework.cs",
+              "RelativeToolTip": "RestSharpAutomation\\DropBox\\TestFileDownloadUsingFramework.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:34:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasicAuthDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\BasicAuthDecorator.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Client\\BasicAuthDecorator.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\BasicAuthDecorator.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Client\\BasicAuthDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:41:40.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AbstractRequest.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\AbstractRequest.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\AbstractRequest.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\AbstractRequest.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\AbstractRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:28:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListFilesAndFolder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\ListFilesAndFolder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\DropBox\\ListFilesAndFolder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DropBox\\ListFilesAndFolder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\DropBox\\ListFilesAndFolder.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvyQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:37:04.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Assignment_POST_Request_with_Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\Assignment_POST_Request_with_Decorator.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\PostRequest\\Assignment_POST_Request_with_Decorator.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\Assignment_POST_Request_with_Decorator.cs",
+              "RelativeToolTip": "RestSharpAutomation\\PostRequest\\Assignment_POST_Request_with_Decorator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:22:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\ICommand.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\ICommand.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\ICommand.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:11:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JsonModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\JsonApiModel\\JsonModelBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIModel\\JsonApiModel\\JsonModelBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\JsonApiModel\\JsonModelBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIModel\\JsonApiModel\\JsonModelBuilder.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:32:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestGetRequestSecure.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetRequestSecure.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\GetRequest\\TestGetRequestSecure.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetRequestSecure.cs",
+              "RelativeToolTip": "RestSharpAutomation\\GetRequest\\TestGetRequestSecure.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:08:14.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestPostRequest.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestPostRequest.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\PostRequest\\TestPostRequest.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestPostRequest.cs",
+              "RelativeToolTip": "RestSharpAutomation\\PostRequest\\TestPostRequest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wCkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:54:44.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\IClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:31:29.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\packages.config",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\packages.config",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\packages.config",
+              "RelativeToolTip": "RestSharpAutomation\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T17:48:10.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "XmlModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\XmlModelBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIModel\\XmlApiModel\\XmlModelBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\XmlModelBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIModel\\XmlApiModel\\XmlModelBuilder.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:04:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestQueryParameters.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\QueryParameters\\TestQueryParameters.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\QueryParameters\\TestQueryParameters.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\QueryParameters\\TestQueryParameters.cs",
+              "RelativeToolTip": "RestSharpAutomation\\QueryParameters\\TestQueryParameters.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:03:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LaptopDetailss.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\LaptopDetailss.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIModel\\XmlApiModel\\LaptopDetailss.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\LaptopDetailss.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIModel\\XmlApiModel\\LaptopDetailss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:02:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DeleteRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\DeleteRequestBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\APIRequest\\DeleteRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\DeleteRequestBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\APIRequest\\DeleteRequestBuilder.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:59:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\GetRequestBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\APIRequest\\GetRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\GetRequestBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\APIRequest\\GetRequestBuilder.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:40:45.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestGetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetRequest.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\GetRequest\\TestGetRequest.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetRequest.cs",
+              "RelativeToolTip": "RestSharpAutomation\\GetRequest\\TestGetRequest.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAmwDwBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:22:31.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PutRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\PutRequestBuilder.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\APIRequest\\PutRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIRequest\\PutRequestBuilder.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\APIRequest\\PutRequestBuilder.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwv0EAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:09:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestPutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PutRequest\\TestPutRequest.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\PutRequest\\TestPutRequest.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PutRequest\\TestPutRequest.cs",
+              "RelativeToolTip": "RestSharpAutomation\\PutRequest\\TestPutRequest.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:14:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestDeleteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DeleteRequest\\TestDeleteRequest.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\DeleteRequest\\TestDeleteRequest.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\DeleteRequest\\TestDeleteRequest.cs",
+              "RelativeToolTip": "RestSharpAutomation\\DeleteRequest\\TestDeleteRequest.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:20:50.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\Laptop.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIModel\\XmlApiModel\\Laptop.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\Laptop.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIModel\\XmlApiModel\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:56:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIResponse\\Response.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\APIResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\APIResponse\\Response.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\APIResponse\\Response.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:04:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Features.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\Features.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIModel\\XmlApiModel\\Features.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIModel\\XmlApiModel\\Features.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIModel\\XmlApiModel\\Features.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:54:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestPostWithTracerClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestPostWithTracerClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\PostRequest\\TestPostWithTracerClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestPostWithTracerClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\PostRequest\\TestPostWithTracerClient.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:46:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestMockableIo.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestMockableIo.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\PostRequest\\TestMockableIo.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\PostRequest\\TestMockableIo.cs",
+              "RelativeToolTip": "RestSharpAutomation\\PostRequest\\TestMockableIo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:08:35.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TestPostEndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\PostEndPoint\\TestPostEndPoints.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\PostEndPoint\\TestPostEndPoints.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\PostEndPoint\\TestPostEndPoints.cs",
+              "RelativeToolTip": "WebServiceAutomation\\PostEndPoint\\TestPostEndPoints.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAIwGIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:56:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TestGetWithFramework.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetWithFramework.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\GetRequest\\TestGetWithFramework.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\GetRequest\\TestGetWithFramework.cs",
+              "RelativeToolTip": "RestSharpAutomation\\GetRequest\\TestGetWithFramework.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwEAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:15:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IRestApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IRestApiResponse.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\IRestApiResponse.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\IRestApiResponse.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\IRestApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:25:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DefaultClient.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\DefaultClient.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\APIHelper\\Client\\DefaultClient.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\APIHelper\\Client\\DefaultClient.cs",
+              "RelativeToolTip": "RestSharpAutomation\\APIHelper\\Client\\DefaultClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:38:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\MsTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MsTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\MsTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "MsTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:48:12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TestGetEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\GetEndPoint\\TestGetEndPoint.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\GetEndPoint\\TestGetEndPoint.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\GetEndPoint\\TestGetEndPoint.cs",
+              "RelativeToolTip": "WebServiceAutomation\\GetEndPoint\\TestGetEndPoint.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAkwHMBAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:07.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Base64StringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\Authentication\\Base64StringConverter.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\Helper\\Authentication\\Base64StringConverter.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\Authentication\\Base64StringConverter.cs",
+              "RelativeToolTip": "WebServiceAutomation\\Helper\\Authentication\\Base64StringConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:29:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Model\\RestResponse.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\Model\\RestResponse.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Model\\RestResponse.cs",
+              "RelativeToolTip": "WebServiceAutomation\\Model\\RestResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:11:28.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RestSharpAutomation\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\RestSharpAutomation\\UnitTest1.cs",
+              "RelativeToolTip": "RestSharpAutomation\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:33:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\Request\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\Helper\\Request\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\Request\\HttpClientHelper.cs",
+              "RelativeToolTip": "WebServiceAutomation\\Helper\\Request\\HttpClientHelper.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAmwGcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ResponseDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\ResponseData\\ResponseDataHelper.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\Helper\\ResponseData\\ResponseDataHelper.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\Helper\\ResponseData\\ResponseDataHelper.cs",
+              "RelativeToolTip": "WebServiceAutomation\\Helper\\ResponseData\\ResponseDataHelper.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:47:23.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\MsTestProject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MsTestProject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\MsTestProject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "MsTestProject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T18:13:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\UnitTest1.cs",
+              "RelativeToolTip": "WebServiceAutomation\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:31:59.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\packages.config",
+              "RelativeDocumentMoniker": "WebServiceAutomation\\packages.config",
+              "ToolTip": "C:\\Users\\BrianJoslyn\\source\\repos\\WebServiceAutomation\\WebServiceAutomation\\packages.config",
+              "RelativeToolTip": "WebServiceAutomation\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-12T15:46:41.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WireMock.Net.OpenApiParser</name>
+    </assembly>
+    <members>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.OpenApiSchemaExtensions.TryGetXNullable(Microsoft.OpenApi.Models.OpenApiSchema,System.Boolean@)">
+            <summary>
+            https://stackoverflow.com/questions/48111459/how-to-define-a-property-that-can-be-string-or-null-in-openapi-swagger
+            </summary>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions">
+            <summary>
+            Some extension methods for <see cref="T:WireMock.Server.IWireMockServer"/>.
+            </summary>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions.WithMappingFromOpenApiFile(WireMock.Server.IWireMockServer,System.String,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Register the mappings via an OpenAPI (swagger) V2 or V3 file.
+            </summary>
+            <param name="server">The WireMockServer instance</param>
+            <param name="path">Path containing OpenAPI file to parse and use the mappings.</param>
+            <param name="diagnostic">Returns diagnostic object containing errors detected during parsing</param>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions.WithMappingFromOpenApiFile(WireMock.Server.IWireMockServer,System.String,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Register the mappings via an OpenAPI (swagger) V2 or V3 file.
+            </summary>
+            <param name="server">The WireMockServer instance</param>
+            <param name="path">Path containing OpenAPI file to parse and use the mappings.</param>
+            <param name="settings">Additional settings</param>
+            <param name="diagnostic">Returns diagnostic object containing errors detected during parsing</param>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions.WithMappingFromOpenApiStream(WireMock.Server.IWireMockServer,System.IO.Stream,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Register the mappings via an OpenAPI (swagger) V2 or V3 stream.
+            </summary>
+            <param name="server">The WireMockServer instance</param>
+            <param name="stream">Stream containing OpenAPI description to parse and use the mappings.</param>
+            <param name="diagnostic">Returns diagnostic object containing errors detected during parsing</param>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions.WithMappingFromOpenApiStream(WireMock.Server.IWireMockServer,System.IO.Stream,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Register the mappings via an OpenAPI (swagger) V2 or V3 stream.
+            </summary>
+            <param name="server">The WireMockServer instance</param>
+            <param name="stream">Stream containing OpenAPI description to parse and use the mappings.</param>
+            <param name="settings">Additional settings</param>
+            <param name="diagnostic">Returns diagnostic object containing errors detected during parsing</param>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.Extensions.WireMockServerExtensions.WithMappingFromOpenApiDocument(WireMock.Server.IWireMockServer,Microsoft.OpenApi.Models.OpenApiDocument,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings)">
+            <summary>
+            Register the mappings via an OpenAPI (swagger) V2 or V3 document.
+            </summary>
+            <param name="server">The WireMockServer instance</param>
+            <param name="document">The OpenAPI document to use as mappings.</param>
+            <param name="settings">Additional settings [optional].</param>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.IWireMockOpenApiParser">
+            <summary>
+            Parse a OpenApi/Swagger/V2/V3 or Raml to WireMock MappingModels.
+            </summary>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromFile(System.String,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a file-path.
+            </summary>
+            <param name="path">The path to read the OpenApi/Swagger/V2/V3 or Raml file.</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromFile(System.String,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a file-path.
+            </summary>
+            <param name="path">The path to read the OpenApi/Swagger/V2/V3 or Raml file.</param>
+            <param name="settings">Additional settings</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromDocument(Microsoft.OpenApi.Models.OpenApiDocument,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from an <seealso cref="T:Microsoft.OpenApi.Models.OpenApiDocument"/>.
+            </summary>
+            <param name="document">The source OpenApiDocument</param>
+            <param name="settings">Additional settings [optional]</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromStream(System.IO.Stream,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a <seealso cref="T:System.IO.Stream"/>.
+            </summary>
+            <param name="stream">The source stream</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromStream(System.IO.Stream,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a <seealso cref="T:System.IO.Stream"/>.
+            </summary>
+            <param name="stream">The source stream</param>
+            <param name="settings">Additional settings</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromText(System.String,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a <seealso cref="T:System.String"/>.
+            </summary>
+            <param name="text">The source text</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.IWireMockOpenApiParser.FromText(System.String,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <summary>
+            Generate <see cref="T:System.Collections.Generic.IReadOnlyList`1"/> from a <seealso cref="T:System.String"/>.
+            </summary>
+            <param name="text">The source text</param>
+            <param name="settings">Additional settings</param>
+            <param name="diagnostic">OpenApiDiagnostic output</param>
+            <returns>MappingModel</returns>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues">
+            <summary>
+            A interface defining the example values to use for the different types.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Boolean">
+            <summary>
+            An example value for a Boolean.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Integer">
+            <summary>
+            An example value for an Integer.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Float">
+            <summary>
+            An example value for a Float.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Double">
+            <summary>
+            An example value for a Double.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Date">
+            <summary>
+            An example value for a Date.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.DateTime">
+            <summary>
+            An example value for a DateTime.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Bytes">
+            <summary>
+            An example value for Bytes.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Object">
+            <summary>
+            An example value for a Object.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.String">
+            <summary>
+            An example value for a String.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues.Schema">
+            <summary>
+            OpenApi Schema to generate dynamic examples more accurate
+            </summary>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues">
+            <summary>
+            A class defining the random example values to use for the different types.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Boolean">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Integer">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Float">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Double">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Date">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.DateTime">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Bytes">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Object">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.String">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues.Schema">
+            <inheritdoc />
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues">
+            <summary>
+            A class defining the example values to use for the different types.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Boolean">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Integer">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Float">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Double">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Date">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.DateTime">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Bytes">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Object">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.String">
+            <inheritdoc />
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues.Schema">
+            <inheritdoc />
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings">
+            <summary>
+            The WireMockOpenApiParser Settings
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.NumberOfArrayItems">
+            <summary>
+            The number of array items to generate (default is 3).
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.PathPatternToUse">
+            <summary>
+            The example value type to use when generating a Path
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.HeaderPatternToUse">
+            <summary>
+            The example value type to use when generating a Header
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.QueryParameterPatternToUse">
+            <summary>
+            The example value type to use when generating a Query Parameter
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.ExampleValues">
+             <summary>
+             The example values to use.
+            
+             Default implementations are:
+             - <see cref="T:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserExampleValues"/>
+             - <see cref="T:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserDynamicExampleValues"/>
+             </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.HeaderPatternIgnoreCase">
+            <summary>
+            Is a Header match case-insensitive?
+            
+            Default is <c>true</c>.
+            </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.QueryParameterPatternIgnoreCase">
+             <summary>
+             Is a Query Parameter match case-insensitive?
+            
+             Default is <c>true</c>.
+             </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.RequestBodyIgnoreCase">
+             <summary>
+             Is a Request Body match case-insensitive?
+            
+             Default is <c>true</c>.
+             </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.IgnoreCaseExampleValues">
+             <summary>
+             Is a ExampleValue match case-insensitive?
+            
+             Default is <c>true</c>.
+             </summary>
+        </member>
+        <member name="P:WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings.DynamicExamples">
+            <summary>
+            Are examples generated dynamically?
+            </summary>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.Types.ExampleValueType">
+            <summary>
+            The example value to use
+            </summary>
+        </member>
+        <member name="F:WireMock.Net.OpenApiParser.Types.ExampleValueType.Value">
+            <summary>
+            1. Use a generated example value based on the SchemaType (default).
+            2. If there is no example value defined in the schema,
+               then the <see cref="T:WireMock.Net.OpenApiParser.Settings.IWireMockOpenApiParserExampleValues"/> will be used (custom, fixed or dynamic).
+            </summary>
+        </member>
+        <member name="F:WireMock.Net.OpenApiParser.Types.ExampleValueType.Wildcard">
+            <summary>
+            Just use a Wildcard (*) character.
+            </summary>
+        </member>
+        <member name="T:WireMock.Net.OpenApiParser.WireMockOpenApiParser">
+            <summary>
+            Parse a OpenApi/Swagger/V2/V3 or Raml to WireMock.Net MappingModels.
+            </summary>
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromFile(System.String,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromFile(System.String,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromDocument(Microsoft.OpenApi.Models.OpenApiDocument,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings)">
+            <inheritdoc />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromStream(System.IO.Stream,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc  />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromStream(System.IO.Stream,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromText(System.String,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc  />
+        </member>
+        <member name="M:WireMock.Net.OpenApiParser.WireMockOpenApiParser.FromText(System.String,WireMock.Net.OpenApiParser.Settings.WireMockOpenApiParserSettings,Microsoft.OpenApi.Readers.OpenApiDiagnostic@)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

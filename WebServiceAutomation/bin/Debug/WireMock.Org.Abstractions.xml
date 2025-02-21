@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WireMock.Org.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Id">
+            <summary>
+            This stub mapping's unique identifier
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Uuid">
+            <summary>
+            Alias for the id
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Name">
+            <summary>
+            The stub mapping's name
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Persistent">
+            <summary>
+            Indicates that the stub mapping should be persisted immediately on create/update/delete and survive resets to default.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Priority">
+            <summary>
+            This stub mapping's priority relative to others. 1 is highest.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.ScenarioName">
+            <summary>
+            The name of the scenario that this stub mapping is part of
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.RequiredScenarioState">
+            <summary>
+            The required state of the scenario in order for this stub to be matched.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.NewScenarioState">
+            <summary>
+            The new state for the scenario to be updated to after this stub is served.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.PostServeActions">
+            <summary>
+            A map of the names of post serve action extensions to trigger and their parameters.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.GetAdminMappingsByStubMappingIdResult.Metadata">
+            <summary>
+            Arbitrary metadata to be used for e.g. tagging, documentation. Can also be used to find and remove stubs.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Id">
+            <summary>
+            This stub mapping's unique identifier
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Uuid">
+            <summary>
+            Alias for the id
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Name">
+            <summary>
+            The stub mapping's name
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Persistent">
+            <summary>
+            Indicates that the stub mapping should be persisted immediately on create/update/delete and survive resets to default.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Priority">
+            <summary>
+            This stub mapping's priority relative to others. 1 is highest.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.ScenarioName">
+            <summary>
+            The name of the scenario that this stub mapping is part of
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.RequiredScenarioState">
+            <summary>
+            The required state of the scenario in order for this stub to be matched.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.NewScenarioState">
+            <summary>
+            The new state for the scenario to be updated to after this stub is served.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.PostServeActions">
+            <summary>
+            A map of the names of post serve action extensions to trigger and their parameters.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Mapping.Metadata">
+            <summary>
+            Arbitrary metadata to be used for e.g. tagging, documentation. Can also be used to find and remove stubs.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.Method">
+            <summary>
+            The HTTP request method e.g. GET
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.Url">
+            <summary>
+            The path and query to match exactly against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.UrlPath">
+            <summary>
+            The path to match exactly against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.UrlPathPattern">
+            <summary>
+            The path regex to match against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.UrlPattern">
+            <summary>
+            The path and query regex to match against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.QueryParameters">
+            <summary>
+            Query parameter patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.Headers">
+            <summary>
+            Header patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.BasicAuthCredentials">
+            <summary>
+            Pre-emptive basic auth credentials to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.Cookies">
+            <summary>
+            Cookie patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsRequest.BodyPatterns">
+            <summary>
+            Request body patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="T:WireMock.Org.Abstractions.MappingsRequestBasicAuthCredentials">
+            <summary>
+            Pre-emptive basic auth credentials to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Status">
+            <summary>
+            The HTTP status code to be returned
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.StatusMessage">
+            <summary>
+            The HTTP status message to be returned
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Headers">
+            <summary>
+            Map of response headers to send
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.AdditionalProxyRequestHeaders">
+            <summary>
+            Extra request headers to send when proxying to another host.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Body">
+            <summary>
+            The response body as a string. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Base64Body">
+            <summary>
+            The response body as a base64 encoded string (useful for binary content). Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.JsonBody">
+            <summary>
+            The response body as a JSON object. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.BodyFileName">
+            <summary>
+            The path to the file containing the response body, relative to the configured file root. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Fault">
+            <summary>
+            The fault to apply (instead of a full, valid response).
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.FixedDelayMilliseconds">
+            <summary>
+            Number of milliseconds to delay be before sending the response.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.DelayDistribution">
+            <summary>
+            The delay distribution. Valid property configuration is either median/sigma/type or lower/type/upper.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.FromConfiguredStub">
+            <summary>
+            Read-only flag indicating false if this was the default, unmatched response. Not present otherwise.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.ProxyBaseUrl">
+            <summary>
+            The base URL of the target to proxy matching requests to.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.TransformerParameters">
+            <summary>
+            Parameters to apply to response transformers.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.MappingsResponse.Transformers">
+            <summary>
+            List of names of transformers to apply to this response.
+            </summary>
+        </member>
+        <member name="T:WireMock.Org.Abstractions.MappingsResponseFaultConstants">
+            <summary>
+            The fault to apply (instead of a full, valid response).
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.Method">
+            <summary>
+            The HTTP request method
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.Url">
+            <summary>
+            The path and query to match exactly against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.AbsoluteUrl">
+            <summary>
+            The full URL to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.Headers">
+            <summary>
+            Header patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.Cookies">
+            <summary>
+            Cookie patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.NearMisses.Body">
+            <summary>
+            Body string to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Id">
+            <summary>
+            This stub mapping's unique identifier
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Uuid">
+            <summary>
+            Alias for the id
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Name">
+            <summary>
+            The stub mapping's name
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Persistent">
+            <summary>
+            Indicates that the stub mapping should be persisted immediately on create/update/delete and survive resets to default.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Priority">
+            <summary>
+            This stub mapping's priority relative to others. 1 is highest.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.ScenarioName">
+            <summary>
+            The name of the scenario that this stub mapping is part of
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.RequiredScenarioState">
+            <summary>
+            The required state of the scenario in order for this stub to be matched.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.NewScenarioState">
+            <summary>
+            The new state for the scenario to be updated to after this stub is served.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.PostServeActions">
+            <summary>
+            A map of the names of post serve action extensions to trigger and their parameters.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PostAdminMappingsResult.Metadata">
+            <summary>
+            Arbitrary metadata to be used for e.g. tagging, documentation. Can also be used to find and remove stubs.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Id">
+            <summary>
+            This stub mapping's unique identifier
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Uuid">
+            <summary>
+            Alias for the id
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Name">
+            <summary>
+            The stub mapping's name
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Persistent">
+            <summary>
+            Indicates that the stub mapping should be persisted immediately on create/update/delete and survive resets to default.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Priority">
+            <summary>
+            This stub mapping's priority relative to others. 1 is highest.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.ScenarioName">
+            <summary>
+            The name of the scenario that this stub mapping is part of
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.RequiredScenarioState">
+            <summary>
+            The required state of the scenario in order for this stub to be matched.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.NewScenarioState">
+            <summary>
+            The new state for the scenario to be updated to after this stub is served.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.PostServeActions">
+            <summary>
+            A map of the names of post serve action extensions to trigger and their parameters.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.PutAdminMappingsByStubMappingIdResult.Metadata">
+            <summary>
+            Arbitrary metadata to be used for e.g. tagging, documentation. Can also be used to find and remove stubs.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.Method">
+            <summary>
+            The HTTP request method e.g. GET
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.Url">
+            <summary>
+            The path and query to match exactly against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.UrlPath">
+            <summary>
+            The path to match exactly against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.UrlPathPattern">
+            <summary>
+            The path regex to match against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.UrlPattern">
+            <summary>
+            The path and query regex to match against. Only one of url, urlPattern, urlPath or urlPathPattern may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.QueryParameters">
+            <summary>
+            Query parameter patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.Headers">
+            <summary>
+            Header patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.BasicAuthCredentials">
+            <summary>
+            Pre-emptive basic auth credentials to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.Cookies">
+            <summary>
+            Cookie patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgRequest.BodyPatterns">
+            <summary>
+            Request body patterns to match against in the : { "": "" } form
+            </summary>
+        </member>
+        <member name="T:WireMock.Org.Abstractions.RequestBasicAuthCredentials">
+            <summary>
+            Pre-emptive basic auth credentials to match against
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Status">
+            <summary>
+            The HTTP status code to be returned
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.StatusMessage">
+            <summary>
+            The HTTP status message to be returned
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Headers">
+            <summary>
+            Map of response headers to send
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.AdditionalProxyRequestHeaders">
+            <summary>
+            Extra request headers to send when proxying to another host.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Body">
+            <summary>
+            The response body as a string. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Base64Body">
+            <summary>
+            The response body as a base64 encoded string (useful for binary content). Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.JsonBody">
+            <summary>
+            The response body as a JSON object. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.BodyFileName">
+            <summary>
+            The path to the file containing the response body, relative to the configured file root. Only one of body, base64Body, jsonBody or bodyFileName may be specified.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Fault">
+            <summary>
+            The fault to apply (instead of a full, valid response).
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.FixedDelayMilliseconds">
+            <summary>
+            Number of milliseconds to delay be before sending the response.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.DelayDistribution">
+            <summary>
+            The delay distribution. Valid property configuration is either median/sigma/type or lower/type/upper.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.FromConfiguredStub">
+            <summary>
+            Read-only flag indicating false if this was the default, unmatched response. Not present otherwise.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.ProxyBaseUrl">
+            <summary>
+            The base URL of the target to proxy matching requests to.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.TransformerParameters">
+            <summary>
+            Parameters to apply to response transformers.
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.WireMockOrgResponse.Transformers">
+            <summary>
+            List of names of transformers to apply to this response.
+            </summary>
+        </member>
+        <member name="T:WireMock.Org.Abstractions.ResponseFaultConstants">
+            <summary>
+            The fault to apply (instead of a full, valid response).
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Scenarios.Id">
+            <summary>
+            The scenario ID
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Scenarios.Name">
+            <summary>
+            The scenario name
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Scenarios.PossibleStates">
+            <summary>
+            All the states this scenario can be in
+            </summary>
+        </member>
+        <member name="P:WireMock.Org.Abstractions.Scenarios.State">
+            <summary>
+            The current state of this scenario
+            </summary>
+        </member>
+    </members>
+</doc>
